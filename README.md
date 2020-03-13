@@ -1,24 +1,8 @@
-# sample-app
+# QuackApp - aplicação simples em vue
 
-## Project setup
-```
-yarn install
-```
+#### QuackApp é uma aplicação simples que emite o som do animal pato, o intuito da criação dessa aplicação
+#### foi utilizar da linguagem de programação vue
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Tecnologias
+## Javascript
+## Vue JS
